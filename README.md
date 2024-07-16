@@ -1,2 +1,1 @@
-# SQL-RockbusterVideoRental
-SQL Code for Rockbuster Stealth LLC Project 
+<h1>SQL-RockbusterVideoRental</h1>
