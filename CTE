@@ -1,4 +1,4 @@
-<b> Common Table Expression used to find out how many of the top 5 customers are based within each country. </b>
+Common Table Expression used to find out how many of the top 5 customers are based within each country.
 
 WITH top_5_per_country_cte(country)AS
 (SELECT d.country,
