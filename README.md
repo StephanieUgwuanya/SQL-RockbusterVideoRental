@@ -19,3 +19,9 @@ Below are the questions addressed in my analysis to support Rockbuster Stealth L
 <b>• Where are customers with a high lifetime value based? </b>
 
 <b>• Do sales figures vary between geographic regions?</b>
+
+
+<h1>Data & Tools</h1>
+
+Rockbuster relational database management system and Postgre SQL was used for the analysis purpose. The data set includes information about Rockbuster’s film inventory, customers, payments, stores, staff, films, actors, rental history and addresses.
+Tableau was used to created the visualisations: <a href="https://public.tableau.com/shared/GWP3NZXSG?:display_count=n&:origin=viz_share_link">Google</a>
