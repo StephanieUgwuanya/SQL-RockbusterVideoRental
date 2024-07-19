@@ -5,7 +5,7 @@ Facing stiff competition from streaming services such as Netflix and Amazon Prim
 Rockbuster Stealth management team is planning to use its existing movie licenses to launch an 
 online video rental service in order to stay competitive.
 
-My analysis will help tp launch the new online video service by answering the questions below:
+My analysis will help t0 launch the new online video service by answering the key questions below:
 
 <b>• Which movies contributed the most/least to revenue gain? </b>
 
