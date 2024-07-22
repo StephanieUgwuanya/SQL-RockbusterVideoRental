@@ -1,4 +1,4 @@
-Example of a Join - 10 cities that fall within the top 10 countries for Rockbuster in terms of customer numbers.
+-- Example of a Join - 10 cities that fall within the top 10 countries for Rockbuster in terms of customer numbers.
 
 SELECT C.city, 
 D.country, 
