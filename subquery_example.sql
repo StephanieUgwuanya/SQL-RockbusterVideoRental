@@ -1,4 +1,4 @@
-# Example of a subquery used to find the average amount paid by the top 5 customers
+-- Example of a subquery used to find the average amount paid by the top 5 customers
 
 
 SELECT B.customer_id, 
