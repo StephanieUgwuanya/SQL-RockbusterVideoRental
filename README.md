@@ -24,4 +24,5 @@ Below are the questions addressed in my analysis to support Rockbuster Stealth L
 <h1>Data & Tools</h1>
 
 Rockbuster relational database management system and Postgre SQL was used for the analysis purpose. The data set includes information about Rockbuster’s film inventory, customers, payments, stores, staff, films, actors, rental history and addresses.
-Tableau was used to created the visualisations: <a href="https://public.tableau.com/views/FinalProjectSQL_17134537008320/Sheet2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Tableau Workbook</a>
+Tableau was used to created the visualisations: <a href="https://public.tableau.com/views/FinalProjectSQL_Visualisations/RockbusterStealth_Visualisation?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+">Tableau Workbook</a>
